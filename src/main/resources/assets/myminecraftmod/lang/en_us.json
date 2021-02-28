@@ -1,0 +1,29 @@
+{
+  "itemGroup.modTab": "Naruto Mod Tab",
+
+  "item.myminecraftmod.hokage_kunai": "\u00A7e4th Hokage's Kunai",
+  "item.myminecraftmod.kunai": "Kunai",
+  "item.myminecraftmod.soul_temp": "Soul",
+  "item.myminecraftmod.netherite_core_tool": "\u00A7eNinja Tool",
+  "item.myminecraftmod.orange_soul": "Orange Susanoo Soul",
+  "item.myminecraftmod.netherite_core": "Netherite Core",
+
+  "item.myminecraftmod.iron_skin_jutsu": "\u00A72Iron Skin Jutsu",
+  "item.myminecraftmod.basic_healing_jutsu": "\u00A72Basic Healing Jutsu",
+  "item.myminecraftmod.body_flicker": "\u00A72Body Flicker Jutsu",
+
+  "item.myminecraftmod.fireball_jutsu": "\u00A71Fireball Jutsu",
+  "item.myminecraftmod.shadow_paralysis_jutsu": "\u00A71Shadow Paralysis Jutsu",
+  "item.myminecraftmod.defensive_fangs": "\u00A71Defensive Fangs",
+  "item.myminecraftmod.offensive_fangs": "\u00A71Offensive Fangs",
+
+  "item.myminecraftmod.grand_fireball_jutsu": "\u00A7eGrand Fireball Jutsu",
+  "item.myminecraftmod.amaterasu": "\u00A7eAmaterasu",
+  "item.myminecraftmod.shadow_clone_jutsu": "\u00A7eShadow Clone Jutsu",
+
+  "item.myminecraftmod.eigth_gate": "\u00A74Eight Inner Gates: The Gate of Death",
+  "item.myminecraftmod.mitotic_regeneration": "\u00A74Mitotic Regeration",
+  "item.myminecraftmod.rasenshuriken": "\u00A74Wind Release: Rasenshuriken",
+
+  "container.myminecraftmod.netherite_container": "Netherite Container"
+}
